@@ -1,0 +1,22 @@
+h1 {
+  font-weight: 900;
+  font-size: 50px;
+  margin: 15px;
+  margin-bottom: 20px;
+}
+
+input {
+  width: 100%;
+}
+
+.todo-container {
+  text-align: right;
+}
+
+.rk-row {
+  margin-top: 20px;
+}
+
+.rk-button {
+  min-width: 80px;
+}
